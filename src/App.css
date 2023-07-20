@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black;
+    color: antiquewhite; */
+}
+section{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.cardd{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
